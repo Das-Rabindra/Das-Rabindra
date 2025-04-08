@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/RabindraD234/optima/blob/main/gif3.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/RabindraD234)  
+- 👨‍💻 All of my projects are available at [https://github.com/RabindraD234](https://github.com/RabindraD234)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
 - 📫 How to reach me **drabindra978@gmail.com**
 
