@@ -134,6 +134,8 @@
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -141,21 +143,21 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/optima/assets/your-tf-icon.png" width="40"/>
+      <img src="https://skillicons.dev/icons?i=terraform" width="40" />
       <br/>
       <b><a href="https://github.com/RabindraD234/cloud-automation">Cloud Automation Scripts</a></b>
       <br/>
       <sub>Terraform, Ansible & CI/CD Pipelines</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/optima/assets/your-docker-icon.png" width="40"/>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" />
       <br/>
       <b><a href="https://github.com/RabindraD234/microservices-demo">Dockerized Microservices</a></b>
       <br/>
       <sub>Microservices Setup with Docker Compose</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/optima/assets/your-monitoring-icon.png" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
       <br/>
       <b><a href="https://github.com/RabindraD234/devops-monitoring">Monitoring Stack</a></b>
       <br/>
@@ -167,21 +169,21 @@
 
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/optima/assets/gitops-icon.png" width="40"/>
+      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" width="40" />
       <br/>
       <b><a href="https://github.com/RabindraD234/gitops-lab">GitOps Lab</a></b>
       <br/>
       <sub>ArgoCD, Flux, and Policy-as-Code</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/optima/assets/sre-toolkit.png" width="40"/>
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="40" />
       <br/>
       <b><a href="https://github.com/RabindraD234/sre-toolkit">SRE Toolkit</a></b>
       <br/>
       <sub>Incident Response & Alerting Automation</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/optima/assets/security.svg" width="40"/>
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="40" />
       <br/>
       <b><a href="https://github.com/RabindraD234/devsecops-pipeline">DevSecOps Pipeline</a></b>
       <br/>
