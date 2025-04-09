@@ -1,60 +1,21 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Share+Tech+Mono&display=swap');
-
-.glow {
-  color: #00fff0;
-  text-shadow:
-    0 0 5px #00fff0,
-    0 0 10px #00fff0,
-    0 0 20px #00fff0,
-    0 0 40px #0ff,
-    0 0 80px #0ff;
-  font-family: 'Orbitron', sans-serif;
-  font-size: 42px;
-  animation: pulseGlow 2.5s infinite;
-  text-align: center;
-  margin-top: 10px;
-}
-
-.futuristic-box {
-  border: 2px solid #00fff0;
-  border-radius: 16px;
-  padding: 25px;
-  background: linear-gradient(145deg, rgba(0, 0, 0, 0.6), rgba(0, 10, 20, 0.7));
-  box-shadow:
-    0 0 15px rgba(0, 255, 240, 0.5),
-    0 0 30px rgba(0, 255, 240, 0.3);
-  margin: 20px auto;
-  max-width: 950px;
-  font-family: 'Share Tech Mono', monospace;
-  color: #ffffff;
-}
-
-@keyframes pulseGlow {
-  0% {
-    text-shadow: 0 0 5px #00fff0, 0 0 10px #00fff0, 0 0 20px #00fff0;
-  }
-  50% {
-    text-shadow: 0 0 10px #0ff, 0 0 30px #0ff, 0 0 50px #0ff;
-  }
-  100% {
-    text-shadow: 0 0 5px #00fff0, 0 0 10px #00fff0, 0 0 20px #00fff0;
-  }
-}
-</style>
-
-<h1 class="glow">Hey there 👋, I'm Rabindra Das</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=800&height=60&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
+</h1>
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Cloud DevOps Banner" width="100%" />
+  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center">🚀 Cloud DevOps Engineer | Building Scalable, Secure, and Resilient Infrastructure</h3>
-
 <p align="center">
-  <a href="https://github.com/RabindraD234"><img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" /></a>
-  <a href="mailto:drabindra978@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/RabindraD234">
+    <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
+  </a>
+  <a href="mailto:drabindra978@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Contact-blueviolet?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-00FFF0?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
