@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
