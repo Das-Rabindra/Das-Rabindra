@@ -29,8 +29,6 @@
 
 ## 🔧 Tech Stack Breakdown
 
-## 🔧 Tech Stack Breakdown
-
 <table>
   <tr>
     <td align="center"><b>☁️ Cloud Platforms</b></td>
