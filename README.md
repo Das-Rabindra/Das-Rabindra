@@ -53,8 +53,8 @@
 ### 📜 Infrastructure as Code (IaC)
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazonaws/amazonaws-icon.svg" width="40" height="40"/>
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="40" height="40"/>
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="40" height="40"/>
 </p>
 
 ### 🧠 Monitoring & SRE
@@ -62,10 +62,10 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/logstash/logstash-icon.svg" width="40" height="40"/>
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-logstash.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pagerduty/pd-icon/main/logo.png" width="40" height="40"/>
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="40" height="40"/>
 </p>
 
 ### 🔐 Security & GitOps
@@ -73,8 +73,8 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/static/img/trivy-logo.png" width="40" height="40"/>
-  <img src="https://www.openpolicyagent.org/img/logos/opa-icon-color.png" width="40" height="40"/>
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="40" height="40"/>
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/opa-svgrepo-com.svg" width="40" height="40"/>
 </p>
 
 ### 🧰 Languages & Tools
