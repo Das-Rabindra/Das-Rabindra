@@ -196,6 +196,8 @@
 
 ---
 
+---
+
 <h2 align="center">🤝 Let's Build Something Great Together</h2>
 
 <p align="center">
@@ -223,7 +225,13 @@
       <br/>
       <strong>Get in Touch</strong>
       <br/>
-      <a href="mailto:drabindra978@gmail.com"><code>📬 drabindra978@gmail.com</code></a>
+      <a href="mailto:drabindra978@gmail.com">
+        <code>
+          <span style="color:#00ffff; animation: blinker 1s linear infinite;">
+            📬 drabindra978@gmail.com
+          </span>
+        </code>
+      </a>
     </td>
   </tr>
 </table>
@@ -239,5 +247,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
 </p>
+
+<style>
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
 
 ---
