@@ -21,9 +21,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
 </div>
-
 ---
-
 ### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
 
 <img align="right" alt="DevOps Gif" width="400" src="https://github.com/RabindraD234/optima/blob/main/gif3.gif" />
