@@ -196,12 +196,11 @@
 
 ---
 
----
 
-<h2 align="center">🤝 Let's Build Something Great Together</h2>
+<h2 align="center">🤝 Let's Collaborate or Hire</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=devops,docker,kubernetes,github,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=devops,docker,kubernetes,terraform,aws" height="40" />
 </p>
 
 <table align="center" width="100%">
@@ -211,26 +210,22 @@
       <br/>
       <strong>Remote Opportunities</strong>
       <br/>
-      <sub>Freelance, Contract, or Remote Roles <br/> in Cloud & DevOps</sub>
+      <sub>Open to Freelance, Contract, and Remote DevOps roles</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" />
       <br/>
-      <strong>Open Source Projects</strong>
+      <strong>Open Source Collab</strong>
       <br/>
-      <sub>Collaboration on OSS Tools, Infra as Code, <br/> or DevOps Automation</sub>
+      <sub>Always happy to contribute to Cloud Native & Automation projects</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" />
       <br/>
-      <strong>Get in Touch</strong>
+      <strong>Contact Me</strong>
       <br/>
       <a href="mailto:drabindra978@gmail.com">
-        <code>
-          <span style="color:#00ffff; animation: blinker 1s linear infinite;">
-            📬 drabindra978@gmail.com
-          </span>
-        </code>
+        <b><span style="color:#00FFFF; font-size:16px;">📬 drabindra978@gmail.com</span></b>
       </a>
     </td>
   </tr>
@@ -247,13 +242,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
 </p>
-
-<style>
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
-}
-</style>
 
 ---
