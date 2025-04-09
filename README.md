@@ -99,11 +99,12 @@
 </table>
 ---
 
+---
+
 ## 📊 GitHub Insights
 
 <div align="center">
 
-<!-- Top Row: Stats & Contributions -->
 <table>
   <tr>
     <td width="50%">
@@ -115,7 +116,6 @@
   </tr>
 </table>
 
-<!-- Bottom Row: Languages, Productive Time, Contributions Graph -->
 <table>
   <tr>
     <td width="33%">
@@ -125,7 +125,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%" />
     </td>
     <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=RabindraD234&theme=radical" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabindraD234&theme=radical" width="100%" />
     </td>
   </tr>
 </table>
