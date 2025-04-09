@@ -1,54 +1,23 @@
-<!-- 💠 FUTURISTIC STYLING -->
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+<!-- ✅ Typing SVG Header (with fixed height) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=70&lines=Hey+there+👋%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
+</h1>
 
-.typing-container {
-  margin-top: 30px; /* Fix cropping */
-  padding-top: 10px; /* Extra breathing space */
-  font-family: 'Orbitron', sans-serif;
-  text-align: center;
-}
-
-.glow-text {
-  color: #00FFF0;
-  text-shadow: 0 0 5px #00FFF0, 0 0 10px #00FFF0, 0 0 20px #00FFF0, 0 0 40px #0ff, 0 0 80px #0ff;
-  font-size: 42px;
-  animation: glowPulse 3s ease-in-out infinite;
-}
-
-@keyframes glowPulse {
-  0% {
-    text-shadow: 0 0 5px #00FFF0, 0 0 10px #00FFF0, 0 0 20px #00FFF0;
-  }
-  50% {
-    text-shadow: 0 0 15px #0ff, 0 0 35px #0ff, 0 0 55px #0ff;
-  }
-  100% {
-    text-shadow: 0 0 5px #00FFF0, 0 0 10px #00FFF0, 0 0 20px #00FFF0;
-  }
-}
-</style>
-
-<!-- 💡 Typing Header with Proper Margin -->
-<div class="typing-container">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=800&height=60&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
-</div>
-
-<!-- 🔷 Banner Image -->
+<!-- ✅ Banner Image -->
 <p align="center">
   <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- 🛡️ Contact & Social Badges -->
+<!-- ✅ Social Links -->
 <p align="center">
   <a href="https://github.com/RabindraD234">
     <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
   </a>
   <a href="mailto:drabindra978@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Contact-292929?style=flat-square&logo=gmail&logoColor=white&color=00FFF0" />
+    <img src="https://img.shields.io/badge/📧%20Contact-00FFF0?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-292929?style=flat-square&logo=linkedin&logoColor=white&color=00FFF0" />
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-00FFF0?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
