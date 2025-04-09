@@ -1,14 +1,11 @@
-<!-- ✅ Typing SVG Header (with fixed height) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1200&height=80&lines=Hey+there+👋%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
 </h1>
 
-<!-- ✅ Banner Image -->
 <p align="center">
   <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- ✅ Social Links -->
 <p align="center">
   <a href="https://github.com/RabindraD234">
     <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
@@ -21,16 +18,29 @@
   </a>
 </p>
 
-### 👨‍💻 About Me
-
-- ☁️ **Cloud DevOps Engineer** working with modern infrastructure stacks  
-- 🔁 Obsessed with **automation, scalability, and cloud-native tools**  
-- 💡 Currently diving deeper into **Kubernetes, GitOps, and SRE practices**  
-- 💬 Ask me about: **DevOps, Cloud, IaC, CI/CD, SRE, Monitoring**  
-- 📫 Reach me: **drabindra978@gmail.com**  
-- 🌱 Goals for 2025: **Open source contributions & DevOps tooling SaaS**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
+</div>
 
 ---
+
+### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
+
+- 🌐 **Cloud-native engineer** crafting next-gen scalable infrastructure  
+- ⚙️ Passionate about **automation, self-healing systems & smart pipelines**  
+- 🛰️ Currently exploring: **GitOps, K8s Operators, Chaos Engineering, and SRE**  
+- 🔍 Ask me anything about: **DevOps | Cloud | IaC | CI/CD | SRE | Monitoring | Reliability Engineering**  
+- 📬 Let’s connect: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)  
+- 🌱 **2025 Goals**:  
+  - 🚀 Launch a **DevOps SaaS Platform**  
+  - 🔓 Contribute to major **Open Source** projects  
+  - 🛡️ Advocate for **resilient, secure cloud systems**
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=60&lines=Future-Driven+DevOps+Engineering;Automation+is+my+Language;Let's+Build+the+Cloud+of+Tomorrow+☁️" />
+</div>
 
 ## 🔧 Tech Stack Breakdown
 
