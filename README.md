@@ -196,34 +196,32 @@
 
 ---
 
----
-
 <h2 align="center">🤝 Let's Build Something Great Together</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=devops,docker,kubernetes,github" height="40" />
+  <img src="https://skillicons.dev/icons?i=devops,docker,kubernetes,github,linux" height="40" />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/remote-job.png" width="48"/>
+      <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="40" />
       <br/>
-      <strong>Open for Remote Work</strong>
+      <strong>Remote Opportunities</strong>
       <br/>
-      <sub>Cloud & DevOps Engineering <br/> Freelance / Contract / Remote</sub>
+      <sub>Freelance, Contract, or Remote Roles <br/> in Cloud & DevOps</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/collaboration.png" width="48"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" />
       <br/>
-      <strong>OSS Collaboration</strong>
+      <strong>Open Source Projects</strong>
       <br/>
-      <sub>Love contributing to meaningful Open Source <br/> projects and DevOps tooling</sub>
+      <sub>Collaboration on OSS Tools, Infra as Code, <br/> or DevOps Automation</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/email-open.png" width="48"/>
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" />
       <br/>
-      <strong>Let's Talk</strong>
+      <strong>Get in Touch</strong>
       <br/>
       <a href="mailto:drabindra978@gmail.com"><code>📬 drabindra978@gmail.com</code></a>
     </td>
