@@ -26,15 +26,17 @@
 
 ### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
 
-- 🌐 **Cloud-native engineer** crafting next-gen scalable infrastructure  
-- ⚙️ Passionate about **automation, self-healing systems & smart pipelines**  
-- 🛰️ Currently exploring: **GitOps, K8s Operators, Chaos Engineering, and SRE**  
-- 🔍 Ask me anything about: **DevOps | Cloud | IaC | CI/CD | SRE | Monitoring | Reliability Engineering**  
-- 📬 Let’s connect: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)  
-- 🌱 **2025 Goals**:  
-  - 🚀 Launch a **DevOps SaaS Platform**  
-  - 🔓 Contribute to major **Open Source** projects  
-  - 🛡️ Advocate for **resilient, secure cloud systems**
+🚀 Passionate about designing **self-healing, automated, and intelligent infrastructure**  
+🧠 Obsessed with **cloud-native architecture**, **GitOps**, **SRE**, and **IaC-first principles**  
+🔁 Building **resilient, observable systems** powered by **CI/CD**, **Kubernetes**, and **Cloud APIs**  
+🔍 Always exploring: `GitOps`, `K8s Operators`, `Chaos Engineering`, `DevSecOps`, `SaaS Delivery`  
+📬 Connect with me: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)  
+
+#### ⚡ 2025 Mission Objectives:
+- 🛠️ Build and launch a production-grade **DevOps SaaS Platform**
+- 🌍 Contribute to **Open Source Cloud Native** tools and automation frameworks
+- 🧪 Drive innovation in **Site Reliability Engineering** & **Cloud Security**
+- 🧩 Advocate for **platform engineering** and **developer experience**
 
 ---
 
@@ -112,8 +114,6 @@
     </td>
   </tr>
 </table>
----
-
 ---
 
 ## 📊 GitHub Insights
