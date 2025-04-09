@@ -65,8 +65,8 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RabindraD234&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=RabindraD234&limit=10&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
