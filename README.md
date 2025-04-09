@@ -26,11 +26,31 @@
 
 ### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
 
+<img align="right" alt="DevOps Gif" width="400" src="https://github.com/RabindraD234/optima/blob/main/gif3.gif" />
+
 🚀 Passionate about designing **self-healing, automated, and intelligent infrastructure**  
 🧠 Obsessed with **cloud-native architecture**, **GitOps**, **SRE**, and **IaC-first principles**  
 🔁 Building **resilient, observable systems** powered by **CI/CD**, **Kubernetes**, and **Cloud APIs**  
 🔍 Always exploring: `GitOps`, `K8s Operators`, `Chaos Engineering`, `DevSecOps`, `SaaS Delivery`  
-📬 Connect with me: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)  
+📬 Connect with me: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)
+
+---
+
+#### 🔭 About Me
+
+🎯 I’m a futuristic DevOps Engineer focused on blending automation, security, and observability to build **next-gen cloud platforms**.  
+🎨 I combine **design thinking** with **infrastructure mastery** to deliver scalable, developer-friendly systems.  
+⚡ Outside of the terminal, I enjoy exploring AI integrations into DevOps workflows and leveling up engineering culture with the right tooling.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=60&lines=Future-Driven+DevOps+Engineering;Automation+is+my+Language;Let's+Build+the+Cloud+of+Tomorrow+☁️" />
+  <br/>
+  <img src="https://github.com/RabindraD234/optima/blob/main/3dcloud.gif" width="300" alt="3D Cloud Animation" />
+</div>
+
+---
 
 #### ⚡ 2025 Mission Objectives:
 - 🛠️ Build and launch a production-grade **DevOps SaaS Platform**
@@ -38,12 +58,6 @@
 - 🧪 Drive innovation in **Site Reliability Engineering** & **Cloud Security**
 - 🧩 Advocate for **platform engineering** and **developer experience**
 
----
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=60&lines=Future-Driven+DevOps+Engineering;Automation+is+my+Language;Let's+Build+the+Cloud+of+Tomorrow+☁️" />
-</div>
 ---
 ---
 ## 🔧 Tech Stack Breakdown
