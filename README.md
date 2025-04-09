@@ -97,12 +97,6 @@
     </td>
   </tr>
 </table>
-
-
----
-
----
-
 ---
 
 ## 📊 GitHub Insights
@@ -111,19 +105,25 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=RabindraD234&theme=tokyonight&hide_border=true" width="100%" />
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=RabindraD234&theme=radical&hide_border=true" width="100%"/>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RabindraD234&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    <td width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RabindraD234&theme=tokyonight" width="100%" />
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%"/>
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%"/>
     </td>
   </tr>
 </table>
