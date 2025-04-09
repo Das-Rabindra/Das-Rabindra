@@ -132,14 +132,65 @@
 
 </div>
 
-
 ---
 
 ## 🚀 Featured Projects
 
-- ⚙️ [Cloud Automation Scripts](https://github.com/RabindraD234/cloud-automation) – Terraform, Ansible & CI/CD pipelines  
-- 📦 [Dockerized Microservices](https://github.com/RabindraD234/microservices-demo) – Docker Compose setup for services  
-- 📊 [Monitoring Stack](https://github.com/RabindraD234/devops-monitoring) – Prometheus + Grafana + Loki
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github.com/RabindraD234/optima/assets/your-tf-icon.png" width="40"/>
+      <br/>
+      <b><a href="https://github.com/RabindraD234/cloud-automation">Cloud Automation Scripts</a></b>
+      <br/>
+      <sub>Terraform, Ansible & CI/CD Pipelines</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/RabindraD234/optima/assets/your-docker-icon.png" width="40"/>
+      <br/>
+      <b><a href="https://github.com/RabindraD234/microservices-demo">Dockerized Microservices</a></b>
+      <br/>
+      <sub>Microservices Setup with Docker Compose</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/RabindraD234/optima/assets/your-monitoring-icon.png" width="40"/>
+      <br/>
+      <b><a href="https://github.com/RabindraD234/devops-monitoring">Monitoring Stack</a></b>
+      <br/>
+      <sub>Prometheus, Grafana, Loki Integration</sub>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github.com/RabindraD234/optima/assets/gitops-icon.png" width="40"/>
+      <br/>
+      <b><a href="https://github.com/RabindraD234/gitops-lab">GitOps Lab</a></b>
+      <br/>
+      <sub>ArgoCD, Flux, and Policy-as-Code</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/RabindraD234/optima/assets/sre-toolkit.png" width="40"/>
+      <br/>
+      <b><a href="https://github.com/RabindraD234/sre-toolkit">SRE Toolkit</a></b>
+      <br/>
+      <sub>Incident Response & Alerting Automation</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/RabindraD234/optima/assets/security.svg" width="40"/>
+      <br/>
+      <b><a href="https://github.com/RabindraD234/devsecops-pipeline">DevSecOps Pipeline</a></b>
+      <br/>
+      <sub>Trivy, OPA, Security in CI/CD</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
