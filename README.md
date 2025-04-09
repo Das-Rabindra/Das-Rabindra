@@ -29,61 +29,90 @@
 
 ## 🔧 Tech Stack Breakdown
 
-### ☁️ Cloud Platforms
+<table align="center">
+  <tr>
+    <td align="center" colspan="4"><b>☁️ Cloud Platforms</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=azure" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp" width="40" /></td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
+  <tr><td colspan="4"><br></td></tr>
 
-### 📦 Containers & Orchestration
+  <tr>
+    <td align="center" colspan="4"><b>📦 Containers & Orchestration</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/helm.svg" width="40" /></td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" />
-</p>
+  <tr><td colspan="4"><br></td></tr>
 
-### ⚙️ CI/CD & Automation
+  <tr>
+    <td align="center" colspan="4"><b>⚙️ CI/CD & Automation</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-icon.svg" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/circleci-icon.svg" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=githubactions" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ansible" width="40" /></td>
+  </tr>
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=githubactions,ansible" />
-</p>
+  <tr><td colspan="4"><br></td></tr>
 
-### 📜 Infrastructure as Code (IaC)
+  <tr>
+    <td align="center" colspan="4"><b>📜 Infrastructure as Code</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="40" /></td>
+  </tr>
 
-<p>
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="40" height="40"/>
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="40" height="40"/>
-</p>
+  <tr><td colspan="4"><br></td></tr>
 
-### 🧠 Monitoring & SRE
+  <tr>
+    <td align="center" colspan="4"><b>🧠 Monitoring & SRE</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-logstash.svg" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="40" /></td>
+  </tr>
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-logstash.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/>
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="40" height="40"/>
-</p>
+  <tr><td colspan="4"><br></td></tr>
 
-### 🔐 Security & GitOps
+  <tr>
+    <td align="center" colspan="4"><b>🔐 Security & GitOps</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="40" /></td>
+    <td><img src="https://github.com/RabindraD234/RabindraD234/blob/main/opa-svgrepo-com.svg" width="40" /></td>
+  </tr>
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="40" height="40"/>
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="40" height="40"/>
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/opa-svgrepo-com.svg" width="40" height="40"/>
-</p>
+  <tr><td colspan="4"><br></td></tr>
 
-### 🧰 Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,go" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-</p>
+  <tr>
+    <td align="center" colspan="4"><b>🧰 Languages & Tools</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" width="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=go" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" /></td>
+  </tr>
+</table>
 
 ---
 
