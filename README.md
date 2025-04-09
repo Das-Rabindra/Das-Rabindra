@@ -1,30 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1500&color=00FFF0&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+SRE+%7C+Cloud+Native+Champion;Automating+Infra+with+Terraform,+Ansible+,+K8s" alt="Typing Intro" />
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFF0; font-size: 38px;">
+  👋 Hey there, I'm <span style="color:#00BFFF;">Rabindra Das</span>
 </h1>
 
-<p align="center">
-  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="DevOps Banner" width="100%" />
-</p>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/-Cloud%20DevOps%20Engineer-00FFF0?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Automation%20%7C%20Kubernetes%20%7C%20CI%2FCD-00FFF0?style=flat-square&logo=githubactions&logoColor=white" />
+<h3 align="center" style="color: #00ffcc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Cloud DevOps Engineer | Automating Infra | Building Resilient Systems
 </h3>
+
+<p align="center">
+  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="DevOps Banner" width="100%" style="border-radius: 12px; box-shadow: 0 0 15px #00FFF0;" />
+</p>
 
 <p align="center">
   <a href="https://github.com/RabindraD234">
     <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
   </a>
   <a href="mailto:drabindra978@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20drabindra978@gmail.com-00FFF0?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20drabindra978@gmail.com-00FFF0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/optima/blob/main/gif3.gif" width="400" alt="DevOps Animation" />
+  <img src="https://github.com/RabindraD234/optima/blob/main/gif3.gif" width="400" style="border-radius: 10px; box-shadow: 0 0 10px #00FFF0;" alt="DevOps Animation" />
 </p>
 
 ### 👨‍💻 About Me
