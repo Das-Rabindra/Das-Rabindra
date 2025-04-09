@@ -196,18 +196,48 @@
 
 ---
 
-## 🤝 Collaborate or Hire
+## 🤝 Let's Collaborate or Work Together
 
-- 💼 Open to Freelance or Remote DevOps Work  
-- 🧠 Happy to collaborate on Open Source or Community Projects  
-- 📬 Reach out: **drabindra978@gmail.com**
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=laptop" width="40" />
+      <br/>
+      <b>Freelance & Remote</b>
+      <br/>
+      <sub>Open to contract or remote DevOps roles globally.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=github" width="40" />
+      <br/>
+      <b>Open Source Contributor</b>
+      <br/>
+      <sub>Excited to join and improve meaningful OSS projects.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=mail" width="40" />
+      <br/>
+      <b>Let's Connect</b>
+      <br/>
+      <sub>
+        <a href="mailto:drabindra978@gmail.com">
+          <b>📬 drabindra978@gmail.com</b>
+        </a>
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-> _“Helping teams deliver faster with cloud-native DevOps solutions. Let’s build resilient systems that scale!”_
-
----
+> 💬 _“Helping teams deliver faster with cloud-native DevOps solutions. Let’s build resilient systems that scale!”_
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
 </p>
+
+</div>
+
+---
