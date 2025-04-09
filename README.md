@@ -29,10 +29,13 @@
 
 ## 🔧 Tech Stack Breakdown
 
+## 🔧 Tech Stack Breakdown
+
 <table>
   <tr>
     <td align="center"><b>☁️ Cloud Platforms</b></td>
     <td align="center"><b>📦 Containers & Orchestration</b></td>
+    <td align="center"><b>⚙️ CI/CD & Automation</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -45,35 +48,27 @@
       <img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
       <img src="https://github.com/RabindraD234/RabindraD234/blob/main/helm.svg" width="40" />
     </td>
-  </tr>
-
-  <tr><td colspan="2"><br></td></tr>
-
-  <tr>
-    <td align="center"><b>⚙️ CI/CD & Automation</b></td>
-    <td align="center"><b>📜 Infrastructure as Code</b></td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-icon.svg" width="40" />
       <img src="https://github.com/RabindraD234/RabindraD234/blob/main/circleci-icon.svg" width="40" />
       <img src="https://skillicons.dev/icons?i=githubactions" width="40" />
       <img src="https://skillicons.dev/icons?i=ansible" width="40" />
     </td>
+  </tr>
+
+  <tr><td colspan="3"><br></td></tr>
+
+  <tr>
+    <td align="center"><b>📜 Infrastructure as Code</b></td>
+    <td align="center"><b>🧠 Monitoring & SRE</b></td>
+    <td align="center"><b>🔐 Security & GitOps</b></td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="40" />
       <img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="40" />
       <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="40" />
     </td>
-  </tr>
-
-  <tr><td colspan="2"><br></td></tr>
-
-  <tr>
-    <td align="center"><b>🧠 Monitoring & SRE</b></td>
-    <td align="center"><b>🔐 Security & GitOps</b></td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
@@ -89,13 +84,13 @@
     </td>
   </tr>
 
-  <tr><td colspan="2"><br></td></tr>
+  <tr><td colspan="3"><br></td></tr>
 
   <tr>
-    <td align="center" colspan="2"><b>🧰 Languages & Tools</b></td>
+    <td align="center" colspan="3"><b>🧰 Languages & Tools</b></td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <img src="https://skillicons.dev/icons?i=python" width="40" />
       <img src="https://skillicons.dev/icons?i=bash" width="40" />
       <img src="https://skillicons.dev/icons?i=go" width="40" />
