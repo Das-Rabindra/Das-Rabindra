@@ -1,6 +1,23 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFF0; font-size: 38px;">
-  👋 Hey there, I'm <span style="color:#00BFFF;">Rabindra Das</span>
-</h1>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+.glow {
+  color: #00FFF0;
+  text-shadow: 0 0 5px #00FFF0, 0 0 10px #00FFF0, 0 0 20px #00FFF0;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 38px;
+}
+.futuristic-box {
+  border: 1px solid #00FFF0;
+  border-radius: 12px;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 15px #00FFF0;
+  margin: 10px auto;
+  max-width: 900px;
+}
+</style>
+
+<h1 align="center" class="glow">👋 Hey there, I'm <span style="color:#00BFFF;">Rabindra Das</span></h1>
 
 <h3 align="center" style="color: #00ffcc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   🚀 Cloud DevOps Engineer | Automating Infra | Building Resilient Systems
@@ -25,6 +42,33 @@
 <p align="center">
   <img src="https://github.com/RabindraD234/optima/blob/main/gif3.gif" width="400" style="border-radius: 10px; box-shadow: 0 0 10px #00FFF0;" alt="DevOps Animation" />
 </p>
+
+<div class="futuristic-box" align="center">
+  <h2 style="color:#00FFF0; font-family: 'Orbitron', sans-serif;">🔥 Mission Statement</h2>
+  <p style="color: white; max-width: 800px;">
+    I’m not just another DevOps Engineer. I craft infrastructure that scales, heals, and deploys itself. Whether it's building GitOps-powered pipelines or monitoring high-traffic Kubernetes clusters, I bring systems to life with automation, observability, and resilience.
+  </p>
+</div>
+
+<div class="futuristic-box" align="center">
+  <h2 style="color:#00FFF0; font-family: 'Orbitron', sans-serif;">🧠 Philosophy</h2>
+  <ul style="list-style: none; padding: 0; color: white;">
+    <li>🔄 Automate everything that moves (and what doesn't... make it move!)</li>
+    <li>⚙️ Think like an engineer, act like an artist, debug like a detective</li>
+    <li>🌐 Open-source is the new resume. I build in public.</li>
+  </ul>
+</div>
+
+<div class="futuristic-box" align="center">
+  <h2 style="color:#00FFF0; font-family: 'Orbitron', sans-serif;">🧬 Beyond the Code</h2>
+  <p style="color:white;">I believe DevOps isn’t just tools and YAML — it's a culture of speed, stability, and innovation. My work is a blend of technology and philosophy, where reliability meets creativity.</p>
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</p>
+
+---
 
 ### 👨‍💻 About Me
 
