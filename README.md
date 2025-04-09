@@ -44,11 +44,11 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker" width="40" />
       <img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/helm.svg" width="40" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Helm.png" width="40" />
     </td>
     <td align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-icon.svg" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/circleci-icon.svg" width="40" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-svgrepo-com.svg" width="40" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-circleci.svg" width="40" />
       <img src="https://skillicons.dev/icons?i=githubactions" width="40" />
       <img src="https://skillicons.dev/icons?i=ansible" width="40" />
     </td>
