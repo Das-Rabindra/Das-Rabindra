@@ -196,48 +196,50 @@
 
 ---
 
-## 🤝 Let's Collaborate or Work Together
+---
 
-<div align="center">
+<h2 align="center">🤝 Let's Build Something Great Together</h2>
 
-<table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=devops,docker,kubernetes,github" height="40" />
+</p>
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=laptop" width="40" />
+      <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/remote-job.png" width="48"/>
       <br/>
-      <b>Freelance & Remote</b>
+      <strong>Open for Remote Work</strong>
       <br/>
-      <sub>Open to contract or remote DevOps roles globally.</sub>
+      <sub>Cloud & DevOps Engineering <br/> Freelance / Contract / Remote</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=github" width="40" />
+      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/collaboration.png" width="48"/>
       <br/>
-      <b>Open Source Contributor</b>
+      <strong>OSS Collaboration</strong>
       <br/>
-      <sub>Excited to join and improve meaningful OSS projects.</sub>
+      <sub>Love contributing to meaningful Open Source <br/> projects and DevOps tooling</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=mail" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/email-open.png" width="48"/>
       <br/>
-      <b>Let's Connect</b>
+      <strong>Let's Talk</strong>
       <br/>
-      <sub>
-        <a href="mailto:drabindra978@gmail.com">
-          <b>📬 drabindra978@gmail.com</b>
-        </a>
-      </sub>
+      <a href="mailto:drabindra978@gmail.com"><code>📬 drabindra978@gmail.com</code></a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-> 💬 _“Helping teams deliver faster with cloud-native DevOps solutions. Let’s build resilient systems that scale!”_
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+automate+and+scale+together!;Cloud-native+solutions+for+modern+teams;&center=true&width=500&height=30" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
 </p>
-
-</div>
 
 ---
