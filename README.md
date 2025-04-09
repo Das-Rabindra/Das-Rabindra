@@ -103,32 +103,35 @@
 
 <div align="center">
 
+<!-- Top Row: Stats & Contributions -->
 <table>
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=RabindraD234&theme=radical&hide_border=true" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%" />
     </td>
   </tr>
 </table>
 
+<!-- Bottom Row: Languages, Productive Time, Contributions Graph -->
 <table>
   <tr>
     <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%" />
     </td>
     <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%" />
     </td>
     <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=RabindraD234&theme=radical" width="100%" />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
