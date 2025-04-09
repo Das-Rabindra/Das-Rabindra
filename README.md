@@ -101,14 +101,23 @@
 
 ---
 
-## 📊 GitHub Insights
+---
+
+## 📊 GitHub Insights & DevOps Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RabindraD234&theme=vue&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RabindraD234&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RabindraD234&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RabindraD234&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=tokyonight&utcOffset=8" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabindraD234&theme=tokyonight" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RabindraD234&theme=tokyonight" width="40%" />
 </p>
 
 ---
