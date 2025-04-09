@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Hey+there+👋+I'm+Rabindra+Das;Cloud+DevOps+Engineer;Automation+%7C+Scalability+%7C+SRE+%7C+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1500&color=00FFF0&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+SRE+%7C+Cloud+Native+Champion;Automating+Infra+with+Terraform,+Ansible+,+K8s" alt="Typing Intro" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Cloud DevOps Banner" width="100%" />
+  <img src="https://github.com/RabindraD234/optima/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="DevOps Banner" width="100%" />
 </p>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/-Cloud%20DevOps%20Engineer-00FFFF?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-00FFFF?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20DevOps%20Engineer-00FFF0?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Automation%20%7C%20Kubernetes%20%7C%20CI%2FCD-00FFF0?style=flat-square&logo=githubactions&logoColor=white" />
 </h3>
 
 <p align="center">
@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
   </a>
   <a href="mailto:drabindra978@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20drabindra978@gmail.com-00FFFF?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20drabindra978@gmail.com-00FFF0?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
