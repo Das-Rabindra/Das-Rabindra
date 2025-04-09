@@ -44,6 +44,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=60&lines=Future-Driven+DevOps+Engineering;Automation+is+my+Language;Let's+Build+the+Cloud+of+Tomorrow+☁️" />
 </div>
 ---
+---
 ## 🔧 Tech Stack Breakdown
 
 <table>
@@ -115,6 +116,7 @@
   </tr>
 </table>
 ---
+---
 
 ## 📊 GitHub Insights
 
@@ -148,7 +150,6 @@
 </div>
 
 ---
-
 ---
 
 ## 🚀 Featured Projects
