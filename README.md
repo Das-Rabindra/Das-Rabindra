@@ -226,6 +226,18 @@
 
 ---
 
+---
+
+<h2 align="center">📐 DevOps Architecture Highlights</h2>
+
+<p align="center">
+  <img src="https://github.com/RabindraD234/optima/blob/main/devops-arch.gif" width="90%" alt="DevOps Architecture Diagram" />
+</p>
+
+<p align="center"><i>Visualizing scalable pipelines, SRE systems, and GitOps automation.</i></p>
+
+---
+
 <h2 align="center">🤝 Let's Collaborate or Hire</h2>
 
 <p align="center">
