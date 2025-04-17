@@ -21,7 +21,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
 </div>
+
 ---
+
 ### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
 
 <img align="right" alt="DevOps Gif" width="400" src="https://github.com/RabindraD234/optima/blob/main/gif3.gif" />
@@ -57,7 +59,7 @@
 - 🧩 Advocate for **platform engineering** and **developer experience**
 
 ---
----
+
 ## 🔧 Tech Stack Breakdown
 
 <table>
@@ -128,7 +130,7 @@
     </td>
   </tr>
 </table>
----
+
 ---
 
 ## 📊 GitHub Insights
@@ -162,7 +164,6 @@
 
 </div>
 
----
 ---
 
 ## 🚀 Featured Projects
@@ -224,7 +225,7 @@
 </div>
 
 ---
----
+
 <h2 align="center">🤝 Let's Collaborate or Hire</h2>
 
 <p align="center">
@@ -259,14 +260,11 @@
   </tr>
 </table>
 
-<br/>
-
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+automate+and+scale+together!;Cloud-native+solutions+for+modern+teams;&center=true&width=500&height=30" />
 </p>
----
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
