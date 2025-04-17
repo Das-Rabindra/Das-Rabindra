@@ -261,6 +261,7 @@
 
 <br/>
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+automate+and+scale+together!;Cloud-native+solutions+for+modern+teams;&center=true&width=500&height=30" />
 </p>
