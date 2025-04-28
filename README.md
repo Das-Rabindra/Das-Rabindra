@@ -7,16 +7,16 @@
 </p>
 
 <div style="text-align: center;">
-  <a href="https://x.com">
+  <a href="https://x.com" style="display: inline-block; margin: 0 1%;">
     <img src="twitter.svg" width="19.5%" height="120" alt="Twitter Rabindra">
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com" style="display: inline-block; margin: 0 1%;">
     <img src="linkedin.svg" width="19.5%" height="120" alt="LinkedIn Rabindra">
   </a>
-  <a href="https://portfolio-rabindra.vercel.app">
+  <a href="https://portfolio-rabindra.vercel.app" style="display: inline-block; margin: 0 1%;">
     <img src="logo.svg" width="22%" height="120" alt="Rabindra's Personal Site">
   </a>
-  <a href="https://">
+  <a href="https://#" style="display: inline-block; margin: 0 1%;">
     <img src="twitch.svg" width="19.5%" height="120" alt="Twitch">
   </a>
 </div>
