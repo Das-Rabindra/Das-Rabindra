@@ -36,7 +36,7 @@
 
 ---
 
-#### 🔭 About Me
+### 🔭 About Me
 
 🎯 I’m a futuristic DevOps Engineer focused on blending automation, security, and observability to build **next-gen cloud platforms**.  
 🎨 I combine **design thinking** with **infrastructure mastery** to deliver scalable, developer-friendly systems.  
@@ -52,7 +52,7 @@
 
 ---
 
-#### ⚡ 2025 Mission Objectives:
+### ⚡ 2025 Mission Objectives:
 - 🛠️ Build and launch a production-grade **DevOps SaaS Platform**
 - 🌍 Contribute to **Open Source Cloud Native** tools and automation frameworks
 - 🧪 Drive innovation in **Site Reliability Engineering** & **Cloud Security**
@@ -140,7 +140,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%" />
@@ -253,9 +253,7 @@
       <br/>
       <strong>Contact Me</strong>
       <br/>
-      <a href="mailto:drabindra978@gmail.com">
-        <b><span style="color:#00FFFF; font-size:16px;">📬 drabindra978@gmail.com</span></b>
-      </a>
+      <a href="mailto:drabindra978@gmail.com"><b>📬 drabindra978@gmail.com</b></a>
     </td>
   </tr>
 </table>
