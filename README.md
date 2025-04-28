@@ -6,7 +6,7 @@
   <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
-<div><a href="https://x.com"><img src="twitter.svg" width="19.5%" height=120 alt="Twitter Rabindra"></a><a href="https://www.linkedin.com"><img src="linkedin.svg" width="19.5%" height=120 alt="linkedIn Rabindra"></a><a href="https://rabindra.dev"><img src="logo.svg" width="22%" height=120 alt="Rabindra's Personal Site"></a><a href="https://"><img src="twitch.svg" width="19.5%" height=120 alt="Twitch"></a></div>>
+<div><a href="https://x.com"><img src="twitter.svg" width="19.5%" height=120 alt="Twitter Rabindra"></a><a href="https://www.linkedin.com"><img src="linkedin.svg" width="19.5%" height=120 alt="linkedIn Rabindra"></a><a href="https://rabindra.dev"><img src="logo.svg" width="22%" height=120 alt="Rabindra's Personal Site"></a><a href="https://portfolio-rabindra.vercel.app"><img src="twitch.svg" width="19.5%" height=120 alt="Twitch"></a></div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
