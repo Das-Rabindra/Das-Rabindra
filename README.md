@@ -6,17 +6,7 @@
   <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/RabindraD234">
-    <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
-  </a>
-  <a href="mailto:drabindra978@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Contact-00FFF0?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-00FFF0?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div><a href="https://x.com"><img src="https://github.com/RabindraD234/RabindraD234/twitter.svg" width="19.5%" height=120 alt="Twitter Rabindra"></a><a href="https://www.linkedin.com"><img src="https://github.com/RabindraD234/RabindraD234/linkedin.svg" width="19.5%" height=120 alt="linkedIn Rabindra"></a><a href="https://rabindra.dev"><img src="https://github.com/RabindraD234/RabindraD234/logo.svg" width="22%" height=120 alt="Rabindra's Personal Site"></a><a href="https://"><img src="https://github.com/RabindraD234/RabindraD234/twitch.svg" width="19.5%" height=120 alt="Twitch GrahamTheDevRel"></a></div>>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
