@@ -6,22 +6,17 @@
   <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://x.com">
-    <img src="twitter.svg" style="height: 60px; width: 60px;" alt="Twitter Rabindra">
+<p align="center">
+  <a href="https://github.com/RabindraD234">
+    <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="linkedin.svg" style="height: 60px; width: 60px;" alt="LinkedIn Rabindra">
+  <a href="mailto:drabindra978@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Contact-00FFF0?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-rabindra.vercel.app">
-    <img src="logo.svg" style="height: 60px; width: 60px;" alt="Rabindra's Personal Site">
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-00FFF0?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://#">
-    <img src="twitch.svg" style="height: 60px; width: 60px;" alt="Twitch">
-  </a>
-</div>
-
-
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
@@ -270,3 +265,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+automate+and+scale+together!;Cloud-native+solutions+for+modern+teams;&center=true&width=500&height=30" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
+</p>
+
+---
