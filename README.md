@@ -6,20 +6,21 @@
   <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://x.com">
-    <img src="twitter.svg" width="80" height="80" alt="Twitter Rabindra">
+    <img src="twitter.svg" style="height: 60px; width: 60px;" alt="Twitter Rabindra">
   </a>
   <a href="https://www.linkedin.com">
-    <img src="linkedin.svg" width="80" height="80" alt="LinkedIn Rabindra">
+    <img src="linkedin.svg" style="height: 60px; width: 60px;" alt="LinkedIn Rabindra">
   </a>
   <a href="https://portfolio-rabindra.vercel.app">
-    <img src="logo.svg" width="90" height="90" alt="Rabindra's Personal Site">
+    <img src="logo.svg" style="height: 60px; width: 60px;" alt="Rabindra's Personal Site">
   </a>
   <a href="https://#">
-    <img src="twitch.svg" width="80" height="80" alt="Twitch">
+    <img src="twitch.svg" style="height: 60px; width: 60px;" alt="Twitch">
   </a>
 </div>
+
 
 
 <div align="center">
