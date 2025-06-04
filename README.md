@@ -62,6 +62,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RabindraD234&theme=algolia&no-frame=true&no-bg=true&margin-w=20&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 #### ⚡ 2025 Mission Objectives:
 - 🛠️ Build and launch a production-grade **DevOps SaaS Platform**
 - 🌍 Contribute to **Open Source Cloud Native** tools and automation frameworks
