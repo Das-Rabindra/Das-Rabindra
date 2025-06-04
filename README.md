@@ -65,10 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RabindraD234&theme=algolia&no-frame=true&no-bg=true&margin-w=20&column=6" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0fffc0&height=2&section=footer" />
-</p>
-
 
 ---
 
