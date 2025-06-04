@@ -52,15 +52,6 @@
   <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="150" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=1000&height=60&lines=Future-Driven+DevOps+Engineering;Automation+is+my+Language;Let's+Build+the+Cloud+of+Tomorrow+☁️" />
-  <br/>
-  <img src="https://github.com/RabindraD234/optima/blob/main/3dcloud.gif" width="300" alt="3D Cloud Animation" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
