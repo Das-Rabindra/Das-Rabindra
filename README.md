@@ -26,7 +26,7 @@
 
 ### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
 
-<img align="right" alt="DevOps Gif" width="400" src="https://github.com/RabindraD234/optima/blob/main/devops3.gif" />
+<img align="right" alt="DevOps Gif" width="400" src="https://github.com/RabindraD234/optima/blob/main/devOps1.gif" />
 
 🚀 Passionate about designing **self-healing, automated, and intelligent infrastructure**  
 🧠 Obsessed with **cloud-native architecture**, **GitOps**, **SRE**, and **IaC-first principles**  
