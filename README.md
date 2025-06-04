@@ -52,10 +52,10 @@
   <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="150" />
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=🏆+Showcasing+My+Futuristic+GitHub+Achievements;✨+Built+on+Code,+Cloud,+and+Consistency!" />
