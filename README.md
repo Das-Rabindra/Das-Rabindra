@@ -72,9 +72,9 @@
 ## 🪶 Certification Badges
 
 <p align="center">
-  <img src="https://images.credly.com/size/220x220/images/684b46c3-d8c7-469b-bb31-4991fbad8d2f/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="100" />
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/AWS%20Certified%20SysOps%20Administrator%20-%20Associate.png" alt="AWS Certified SysOps Administrator – Associate" width="120" />
   &nbsp;&nbsp;
-  <img src="https://images.credly.com/size/220x220/images/f0c6fdb4-7b15-408b-9c11-90c7a3fa7815/image.png" alt="Microsoft Certified Azure Fundamentals" width="100" />
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="120" />
 </p>
 
 ---
