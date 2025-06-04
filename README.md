@@ -64,9 +64,20 @@
 
 ## 🏆 GitHub Trophies
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=🏆+Showcasing+My+Futuristic+GitHub+Achievements;✨+Built+on+Code,+Cloud,+and+Consistency!" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RabindraD234&theme=algolia&no-frame=true&no-bg=true&margin-w=20&column=6" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0fffc0&height=2&section=footer" />
+</p>
+
 
 ---
 
