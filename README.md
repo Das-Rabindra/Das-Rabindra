@@ -25,15 +25,18 @@
 ---
 
 <!-- About Me Section -->
-### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
+<h3 align="left">👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman</h3>
 
-<img align="right" alt="DevOps Gif" width="320" src="https://github.com/Das-Rabindra/optima/blob/main/devops3.gif" />
+<div align="right">
+  <img src="https://github.com/Das-Rabindra/optima/blob/main/devops3.gif" width="300" alt="DevOps Gif" style="border-radius:12px; margin-bottom: 10px;" />
+</div>
 
-🚀 Passionate about designing **self-healing, automated, and intelligent infrastructure**  
-🧠 Obsessed with **cloud-native architecture**, **GitOps**, **SRE**, and **IaC-first principles**  
-🔁 Building **resilient, observable systems** powered by **CI/CD**, **Kubernetes**, and **Cloud APIs**  
-🔍 Always exploring: `GitOps`, `K8s Operators`, `Chaos Engineering`, `DevSecOps`, `SaaS Delivery`  
-📬 Connect with me: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)
+🚀 Passionate about designing <strong>self-healing, automated, and intelligent infrastructure</strong>  
+🧠 Obsessed with <strong>cloud-native architecture</strong>, <strong>GitOps</strong>, <strong>SRE</strong>, and <strong>IaC-first principles</strong>  
+🔁 Building <strong>resilient, observable systems</strong> powered by <strong>CI/CD</strong>, <strong>Kubernetes</strong>, and <strong>Cloud APIs</strong>  
+🔍 Always exploring: <code>GitOps</code>, <code>K8s Operators</code>, <code>Chaos Engineering</code>, <code>DevSecOps</code>, <code>SaaS Delivery</code>  
+📬 Connect with me: <a href="mailto:drabindra978@gmail.com">drabindra978@gmail.com</a>
+
 
 ---
 
