@@ -164,13 +164,13 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%" />
     </td>
-    <td width="33%">
+    <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%" />
     </td>
-    <td width="33%">
+    <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabindraD234&theme=radical" width="100%" />
     </td>
   </tr>
