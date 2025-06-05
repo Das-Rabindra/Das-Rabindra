@@ -327,10 +327,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+automate+and+scale+together!;Cloud-native+solutions+for+modern+teams;&center=true&width=500&height=30" />
 </p>
 
-<!-- Snake animation section -->
+
+## 🐍 Contributions Graph Animation
+
 <p align="center">
-  <img src="https://github.com/RabindraD234/RabindraD234/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Das-Rabindra/Das-Rabindra/alinement/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 <!-- Visitor counter (already present) -->
 <p align="center">
