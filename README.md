@@ -84,20 +84,20 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" />
-      <img src="https://skillicons.dev/icons?i=azure" width="40" />
-      <img src="https://skillicons.dev/icons?i=gcp" width="40" />
+      <img src="https://skillicons.dev/icons?i=aws" width="50" />
+      <img src="https://skillicons.dev/icons?i=azure" width="50" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="50" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Helm.png" width="40" />
+      <img src="https://skillicons.dev/icons?i=docker" width="50" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Helm.png" width="50" />
     </td>
     <td align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-svgrepo-com.svg" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-circleci.svg" width="40" />
-      <img src="https://skillicons.dev/icons?i=githubactions" width="40" />
-      <img src="https://skillicons.dev/icons?i=ansible" width="40" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-svgrepo-com.svg" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-circleci.svg" width="50" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="50" />
+      <img src="https://skillicons.dev/icons?i=ansible" width="50" />
     </td>
   </tr>
 
@@ -110,22 +110,22 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="40" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="50" />
+      <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="50" />
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-logstash.svg" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" />
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-logstash.svg" width="50" />
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="50" />
+      <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="50" />
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="40" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/opa-svgrepo-com.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="50" />
+      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/opa-svgrepo-com.svg" width="50" />
     </td>
   </tr>
 
@@ -136,11 +136,11 @@
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <img src="https://skillicons.dev/icons?i=python" width="40" />
-      <img src="https://skillicons.dev/icons?i=bash" width="40" />
-      <img src="https://skillicons.dev/icons?i=go" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" />
+      <img src="https://skillicons.dev/icons?i=python" width="50" />
+      <img src="https://skillicons.dev/icons?i=bash" width="50" />
+      <img src="https://skillicons.dev/icons?i=go" width="50" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50" />
     </td>
   </tr>
 </table>
