@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RabindraD234">
-    <img src="https://img.shields.io/github/followers/RabindraD234?label=Follow&style=social" />
+  <a href="https://github.com/Das-Rabindra">
+    <img src="https://img.shields.io/github/followers/Das-Rabindra?label=Follow&style=social" />
   </a>
   <a href="mailto:drabindra978@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Contact-00FFF0?style=flat-square&logo=gmail&logoColor=white" />
@@ -47,9 +47,9 @@
 ## 🪶 Certification Badges
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/AWS%20Certified%20SysOps%20Administrator%20-%20Associate.png" alt="AWS Certified SysOps Administrator – Associate" width="120" />
+  <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/badges/AWS%20Certified%20SysOps%20Administrator%20-%20Associate.png" alt="AWS Certified SysOps Administrator – Associate" width="120" />
   &nbsp;&nbsp;
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="120" />
+  <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="120" />
 </p>
 
 ---
@@ -196,14 +196,14 @@
     <td width="33%" align="center">
       <img src="https://skillicons.dev/icons?i=docker" width="40" />
       <br/>
-      <b><a href="https://github.com/RabindraD234/microservices-demo">Dockerized Microservices</a></b>
+      <b><a href="https://github.com/Das-Rabindra/microservices-demo">Dockerized Microservices</a></b>
       <br/>
       <sub>Microservices Setup with Docker Compose</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
       <br/>
-      <b><a href="https://github.com/RabindraD234/devops-monitoring">Monitoring Stack</a></b>
+      <b><a href="https://github.com/Das-Rabindra/devops-monitoring">Monitoring Stack</a></b>
       <br/>
       <sub>Prometheus, Grafana, Loki Integration</sub>
     </td>
@@ -220,16 +220,16 @@
       <sub>ArgoCD, Flux, and Policy-as-Code</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="40" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/pagerduty-icon.svg" width="40" />
       <br/>
-      <b><a href="https://github.com/RabindraD234/sre-toolkit">SRE Toolkit</a></b>
+      <b><a href="https://github.com/Das-Rabindra/sre-toolkit">SRE Toolkit</a></b>
       <br/>
       <sub>Incident Response & Alerting Automation</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="40" />
+      <img src="https://github.com/Das-Rabindra/RabindraD234/blob/main/trivy.svg" width="40" />
       <br/>
-      <b><a href="https://github.com/RabindraD234/devsecops-pipeline">DevSecOps Pipeline</a></b>
+      <b><a href="https://github.com/Das-Rabindra/devsecops-pipeline">DevSecOps Pipeline</a></b>
       <br/>
       <sub>Trivy, OPA, Security in CI/CD</sub>
     </td>
