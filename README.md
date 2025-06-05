@@ -31,7 +31,7 @@
 🚀 Passionate about designing **self-healing, automated, and intelligent infrastructure**  
 🧠 Obsessed with **cloud-native architecture**, **GitOps**, **SRE**, and **IaC-first principles**  
 🔁 Building **resilient, observable systems** powered by **CI/CD**, **Kubernetes**, and **Cloud APIs**  
-🔍 Always exploring: `GitOps`, `K8s Operators`, `Chaos Engineering`, `DevSecOps`, `SaaS Delivery`  
+🔍 Exploring: `GitOps`, `K8s Operators`, `Chaos Engineering`, `DevSecOps`, `SaaS Delivery`  
 📬 Connect with me: [drabindra978@gmail.com](mailto:drabindra978@gmail.com)
 
 ---
