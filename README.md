@@ -282,8 +282,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-    
-  ![snake gif](https://github.com/Das-Rabindra/Das-Rabindra/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/output/github-snake-dark.svg" alt="GitHub Snake dark animation" />
 </div>
 
 <p align="center">
