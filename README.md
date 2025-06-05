@@ -327,6 +327,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+automate+and+scale+together!;Cloud-native+solutions+for+modern+teams;&center=true&width=500&height=30" />
 </p>
 
+<!-- Snake animation section -->
+<p align="center">
+  <img src="https://github.com/RabindraD234/RabindraD234/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<!-- Visitor counter (already present) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RabindraD234&style=flat-square&color=brightgreen" alt="Visitor Counter" />
 </p>
+
