@@ -1,40 +1,6 @@
-<!-- 🌠 Futuristic Hero Section with Typing Header and Glow -->
-<style>
-@keyframes rotateIcon {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-.rotating-gear {
-  display: inline-block;
-  animation: rotateIcon 6s linear infinite;
-  font-size: 36px;
-  margin-right: 12px;
-  vertical-align: middle;
-}
-.hero-glow {
-  background: #0d0d0d;
-  border: 2px solid #00fff0;
-  border-radius: 20px;
-  padding: 25px;
-  box-shadow: 0 0 20px #00fff0, 0 0 40px #00fff0 inset;
-  display: inline-block;
-  transition: transform 0.3s ease-in-out;
-}
-.hero-glow:hover {
-  transform: scale(1.02);
-  box-shadow: 0 0 30px #00fff0, 0 0 60px #00fff0 inset;
-}
-</style>
-
-<div align="center">
-  <div class="hero-glow">
-    <div>
-      <span class="rotating-gear">⚙️</span>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=80&lines=Hey+there+👋%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
-    </div>
-  </div>
-</div>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=1200&height=80&lines=Hey+there+👋%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
+</h1>
 
 <p align="center">
   <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/Banner.png" alt="Banner" width="100%" />
