@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### 👨‍🚀 Cloud DevOps Engineer | Futuristic Infra Craftsman
 
-<img align="right" alt="DevOps Gif" width="400" src="https://github.com/RabindraD234/optima/blob/main/devops3.gif" />
+<img align="right" alt="DevOps Gif" width="400" src="https://github.com/Das-Rabindra/optima/blob/main/devops3.gif" />
 
 🚀 Passionate about designing **self-healing, automated, and intelligent infrastructure**  
 🧠 Obsessed with **cloud-native architecture**, **GitOps**, **SRE**, and **IaC-first principles**  
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RabindraD234&theme=algolia&no-frame=true&no-bg=true&margin-w=20&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Das-Rabindra&theme=algolia&no-frame=true&no-bg=true&margin-w=20&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -91,11 +91,11 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker" width="50" />
       <img src="https://skillicons.dev/icons?i=kubernetes" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/Helm.png" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/Helm.png" width="50" />
     </td>
     <td align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/jenkins-svgrepo-com.svg" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-circleci.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/jenkins-svgrepo-com.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/icons8-circleci.svg" width="50" />
       <img src="https://skillicons.dev/icons?i=githubactions" width="50" />
       <img src="https://skillicons.dev/icons?i=ansible" width="50" />
     </td>
@@ -110,22 +110,22 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/HashiCorp%20Terraform.png" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/avatar-on-white.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/HashiCorp%20Terraform.png" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/avatar-on-white.svg" width="50" />
       <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" width="50" />
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" />
       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/icons8-logstash.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/icons8-logstash.svg" width="50" />
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="50" />
       <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/pagerduty-icon.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/pagerduty-icon.svg" width="50" />
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/trivy.svg" width="50" />
-      <img src="https://github.com/RabindraD234/RabindraD234/blob/main/opa-svgrepo-com.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/trivy.svg" width="50" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/opa-svgrepo-com.svg" width="50" />
     </td>
   </tr>
 
@@ -154,10 +154,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Das-Rabindra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Das-Rabindra&theme=radical" width="100%" />
     </td>
   </tr>
 </table>
@@ -165,13 +165,13 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Das-Rabindra&layout=compact&theme=radical&hide_border=true" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Das-Rabindra&theme=radical&utcOffset=8" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabindraD234&theme=radical" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Das-Rabindra&theme=radical" width="100%" />
     </td>
   </tr>
 </table>
@@ -189,7 +189,7 @@
     <td width="33%" align="center">
       <img src="https://skillicons.dev/icons?i=terraform" width="40" />
       <br/>
-      <b><a href="https://github.com/RabindraD234/cloud-automation">Cloud Automation Scripts</a></b>
+      <b><a href="https://github.com/Das-Rabindra/cloud-automation">Cloud Automation Scripts</a></b>
       <br/>
       <sub>Terraform, Ansible & CI/CD Pipelines</sub>
     </td>
@@ -215,7 +215,7 @@
     <td width="33%" align="center">
       <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" width="40" />
       <br/>
-      <b><a href="https://github.com/RabindraD234/gitops-lab">GitOps Lab</a></b>
+      <b><a href="https://github.com/Das-Rabindra/gitops-lab">GitOps Lab</a></b>
       <br/>
       <sub>ArgoCD, Flux, and Policy-as-Code</sub>
     </td>
@@ -227,7 +227,7 @@
       <sub>Incident Response & Alerting Automation</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/Das-Rabindra/RabindraD234/blob/main/trivy.svg" width="40" />
+      <img src="https://github.com/Das-Rabindra/Das-Rabindra/blob/main/trivy.svg" width="40" />
       <br/>
       <b><a href="https://github.com/Das-Rabindra/devsecops-pipeline">DevSecOps Pipeline</a></b>
       <br/>
