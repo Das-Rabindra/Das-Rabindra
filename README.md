@@ -38,9 +38,10 @@
 
 #### 🔭 About Me
 
-🎯 I’m a futuristic DevOps Engineer focused on blending automation, security, and observability to build **next-gen cloud platforms**.  
-🎨 I combine **design thinking** with **infrastructure mastery** to deliver scalable, developer-friendly systems.  
-⚡ Outside of the terminal, I enjoy exploring AI integrations into DevOps workflows and leveling up engineering culture with the right tooling.
+🎯 I’m a forward-thinking DevOps Engineer dedicated to seamlessly blending automation, security, and observability to architect **next-generation cloud platforms**.  
+🎨 I leverage a unique mix of **design thinking** and deep **infrastructure expertise** to build scalable, intuitive, and developer-friendly systems.  
+⚡ Beyond code and terminals, I’m passionate about integrating AI-driven innovations into DevOps workflows and fostering a culture of continuous improvement and collaboration.  
+🌟 Always eager to learn, innovate, and push the boundaries of what cloud infrastructure can achieve.
 
 ---
 
