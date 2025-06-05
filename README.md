@@ -149,38 +149,76 @@
 
 ## 📊 GitHub Insights
 
+<!-- Load Orbitron font for futuristic styling -->
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+
+<style>
+  .glow-card {
+    border: 2px solid #00fff7;
+    border-radius: 12px;
+    box-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7 inset;
+    padding: 5px;
+    margin: 5px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  .glow-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 20px #00fff7, 0 0 40px #00fff7 inset;
+  }
+  .glow-title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 28px;
+    color: #00fff7;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+</style>
+
 <div align="center">
 
+<div class="glow-title">🚀 GitHub Dashboard by Rabindra Das</div>
+
 <table>
   <tr>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+    <td width="50%">
+      <div class="glow-card">
+        <img src="https://github-readme-stats.vercel.app/api?username=RabindraD234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+      </div>
     </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%" />
+    <td width="50%">
+      <div class="glow-card">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabindraD234&theme=radical" width="100%" />
+      </div>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%" />
+    <td width="50%">
+      <div class="glow-card">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabindraD234&layout=compact&theme=radical&hide_border=true" width="100%" />
+      </div>
     </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%" />
+    <td width="50%">
+      <div class="glow-card">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RabindraD234&theme=radical&utcOffset=8" width="100%" />
+      </div>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabindraD234&theme=radical" width="100%" />
+    <td width="50%">
+      <div class="glow-card">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RabindraD234&theme=radical" width="100%" />
+      </div>
     </td>
-    <td width="33%">
-      <!-- Optional: Add another relevant stat or keep it empty -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RabindraD234&theme=radical" width="100%" />
+    <td width="50%">
+      <div class="glow-card">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RabindraD234&theme=radical" width="100%" />
+      </div>
     </td>
   </tr>
 </table>
