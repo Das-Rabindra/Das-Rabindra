@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1200&height=80&lines=Hey+there+👋%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=1200&height=80&lines=Hey+there+👋%2C+I'm+Rabindra+Das;Cloud+DevOps+Engineer+%7C+IaC+%7C+SRE+%7C+CI%2FCD;Future-ready+DevOps+Solutions+%7C+K8s+%7C+Cloud+Infra" alt="Typing Header" />
 </h1>
 
 <p align="center">
