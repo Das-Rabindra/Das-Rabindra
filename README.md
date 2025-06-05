@@ -47,9 +47,9 @@
 ## 🪶 Certification Badges
 
 <p align="center">
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/AWS%20Certified%20SysOps%20Administrator%20-%20Associate.png" alt="AWS Certified SysOps Administrator – Associate" width="100" />
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/AWS%20Certified%20SysOps%20Administrator%20-%20Associate.png" alt="AWS Certified SysOps Administrator – Associate" width="120" />
   &nbsp;&nbsp;
-  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="100" />
+  <img src="https://github.com/RabindraD234/RabindraD234/blob/main/badges/Microsoft%20Certified%20Security%20Operations%20Analyst%20Associate.png" alt="Microsoft Certified Security Operations Analyst Associate" width="120" />
 </p>
 
 ---
