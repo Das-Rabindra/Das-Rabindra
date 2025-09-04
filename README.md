@@ -19,12 +19,10 @@
 </p>
 
 <div align="center">
-  <!-- Skillicons-supported -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,gitlab,bitbucket,redhat,tomcat,ubuntu&theme=light&perline=10" alt="Tech Stack" />
-
-  <br/><br/>
-
-  <!-- Custom icons (not in Skillicons) -->
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,gitlab,redhat,tomcat,ubuntu&theme=light&perline=10" alt="Tech Stack" />
+  <br><br>
+  <!-- Missing ones manually added -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
