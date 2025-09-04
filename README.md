@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="48" alt="aws logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Amazon_Web_Services_Logo.svg" height="48" alt="AWS logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="gcp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" alt="azure logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="docker logo"/>
