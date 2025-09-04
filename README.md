@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,circleci,argocd,bitbucket,confluence,gitlab,jira,canva,centos,redhat,tomcat,ubuntu&theme=light&perline=10" alt="Tech Stack" />
 </div>
 
 ---
