@@ -19,23 +19,17 @@
 </p>
 
 <div align="center">
-  <!-- Skillicons-supported -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,gitlab,redhat,ubuntu&theme=light&perline=10" alt="Tech Stack" />
-  <br><br>
-  <!-- Missing ones manually added -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,gitlab,redhat,ubuntu&theme=light&perline=9" alt="Tech Stack" />
+  
+  <!-- Manual icons styled to match -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="tomcat logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="circleci logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="argocd logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="confluence logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="jira logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="48" style="background:#f4f4f4; border-radius:12px; padding:6px;" alt="centos logo" />
 </div>
 
 
