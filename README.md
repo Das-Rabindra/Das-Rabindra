@@ -19,8 +19,25 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,circleci,argocd,bitbucket,confluence,gitlab,jira,canva,centos,redhat,tomcat,ubuntu&theme=light&perline=10" alt="Tech Stack" />
+  <!-- Skillicons-supported -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,prometheus,grafana,python,nginx,gitlab,bitbucket,redhat,tomcat,ubuntu&theme=light&perline=10" alt="Tech Stack" />
+
+  <br/><br/>
+
+  <!-- Custom icons (not in Skillicons) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo" />
 </div>
+
 
 ---
 
