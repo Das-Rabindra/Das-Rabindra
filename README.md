@@ -19,9 +19,12 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="https://aws.amazon.com/" target="_blank" style="text-decoration:none;border:0;outline:none;display:inline-block;">
-    <img src="https://raw.githubusercontent.com/Das-Rabindra/Ekart/main/Amazon_Web_Services_Logo%20(1).svg" height="48" alt="AWS logo" title="Amazon Web Services" style="border:none;outline:none;"/>
+  <p align="center">
+  <a href="https://aws.amazon.com/" target="_blank" style="all:unset;cursor:pointer;display:inline-block;">
+    <img src="https://raw.githubusercontent.com/Das-Rabindra/Ekart/main/Amazon_Web_Services_Logo%20(1).svg" 
+         height="48" alt="AWS logo" title="Amazon Web Services" style="all:unset;display:inline-block;"/>
   </a>
+</p>
   <a href="https://cloud.google.com/" target="_blank" style="text-decoration:none;border:0;outline:none;display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="GCP logo" title="Google Cloud" style="border:none;outline:none;"/>
   </a>
