@@ -19,76 +19,76 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://raw.githubusercontent.com/Das-Rabindra/Ekart/main/Amazon_Web_Services_Logo%20(1).svg" height="48" alt="AWS logo" title="Amazon Web Services" style="display:block;"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
+  <a href="https://cloud.google.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="GCP logo" title="Google Cloud" style="display:block;"/>
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
+  <a href="https://azure.microsoft.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" alt="Azure logo" title="Microsoft Azure" style="display:block;"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker logo" title="Docker" style="display:block;"/>
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
+  <a href="https://kubernetes.io/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes logo" title="Kubernetes" style="display:block;"/>
   </a>
-  <a href="https://www.terraform.io/" target="_blank">
+  <a href="https://www.terraform.io/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="48" alt="Terraform logo" title="Terraform" style="display:block;"/>
   </a>
-  <a href="https://www.ansible.com/" target="_blank">
+  <a href="https://www.ansible.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="48" alt="Ansible logo" title="Ansible" style="display:block;"/>
   </a>
-  <a href="https://www.jenkins.io/" target="_blank">
+  <a href="https://www.jenkins.io/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="48" alt="Jenkins logo" title="Jenkins" style="display:block;"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub logo" title="GitHub" style="display:block;"/>
   </a>
-  <a href="https://www.kernel.org/linux.html" target="_blank">
+  <a href="https://www.kernel.org/linux.html" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux logo" title="Linux" style="display:block;"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash logo" title="Bash" style="display:block;"/>
   </a>
-  <a href="https://prometheus.io/" target="_blank">
+  <a href="https://prometheus.io/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="48" alt="Prometheus logo" title="Prometheus" style="display:block;"/>
   </a>
-  <a href="https://grafana.com/" target="_blank">
+  <a href="https://grafana.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="48" alt="Grafana logo" title="Grafana" style="display:block;"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python logo" title="Python" style="display:block;"/>
   </a>
-  <a href="https://nginx.org/" target="_blank">
+  <a href="https://nginx.org/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" alt="Nginx logo" title="Nginx" style="display:block;"/>
   </a>
-  <a href="https://about.gitlab.com/" target="_blank">
+  <a href="https://about.gitlab.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab logo" title="GitLab" style="display:block;"/>
   </a>
-  <a href="https://www.redhat.com/" target="_blank">
+  <a href="https://www.redhat.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="48" alt="Red Hat logo" title="Red Hat" style="display:block;"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank">
+  <a href="https://ubuntu.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu logo" title="Ubuntu" style="display:block;"/>
   </a>
-  <a href="http://tomcat.apache.org/" target="_blank">
+  <a href="http://tomcat.apache.org/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="48" alt="Tomcat logo" title="Tomcat" style="display:block;"/>
   </a>
-  <a href="https://circleci.com/" target="_blank">
+  <a href="https://circleci.com/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="48" alt="CircleCI logo" title="CircleCI" style="display:block;"/>
   </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="48" alt="ArgoCD logo" title="ArgoCD" style="display:block;"/>
   </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank">
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="48" alt="Confluence logo" title="Confluence" style="display:block;"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="Jira logo" title="Jira" style="display:block;"/>
   </a>
-  <a href="https://www.centos.org/" target="_blank">
+  <a href="https://www.centos.org/" target="_blank" style="text-decoration:none;border:0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="48" alt="CentOS logo" title="CentOS" style="display:block;"/>
   </a>
 </div>
