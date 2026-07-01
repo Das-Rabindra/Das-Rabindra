@@ -97,33 +97,7 @@
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Das-Rabindra&theme=darkhub&no-frame=true&no-bg=true&margin-w=20&column=7&rank=SSS,SS,S,AAA" alt="Elite Trophies" />
 </p>
 
----
 
-## 🎖️ GitHub Achievements
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=800&lines=🎖️+Unlocked+GitHub+Achievements;🦈+Pull+Shark+%7C+🧠+Galaxy+Brain+%7C+👥+Pair+Extraordinaire" />
-</p>
-
-<div align="center">
-
-| 🏅 Achievement | 🎯 Tier | 📋 How Earned |
-|:---:|:---:|:---|
-| 🦈 **Pull Shark** | 🥇 Gold | 300+ pull requests merged |
-| 🧠 **Galaxy Brain** | 🥇 Gold | 16+ discussion answers marked correct |
-| 👥 **Pair Extraordinaire** | 🥇 Gold | 60+ co-authored commits merged |
-| ⚡ **Quickdraw** | ⭐ Unlocked | Closed issue/PR within 5 min of opening |
-| 🎯 **YOLO** | ⭐ Unlocked | Merged PR without a review |
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Gold_🥇-FFD700?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Gold_🥇-FFD700?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Gold_🥇-FFD700?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked_⭐-00F7FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🎯_YOLO-Unlocked_⭐-00F7FF?style=for-the-badge&labelColor=0d1117" />
-</p>
 
 ---
 
