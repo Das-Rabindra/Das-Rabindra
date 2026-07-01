@@ -88,10 +88,6 @@
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Das-Rabindra&theme=algolia&no-frame=true&no-bg=true&margin-w=20&column=6&wantAll=true" alt="GitHub Trophies" />
 </p>
 
-<!-- Row 2: All trophies – radical theme (alternate style) -->
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Das-Rabindra&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=6&wantAll=true" alt="GitHub Trophies Radical" />
-</p>
 
 <!-- Row 3: Top-ranked trophies only (SSS, SS, S, AAA) -->
 <p align="center">
